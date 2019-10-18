@@ -1,2 +1,3 @@
 # Trabalho01
-Trabalho de Java
+Sistema de Banco em Java
+Fazer o download do arquivo zip, e fazer a importação no NetBeans 
